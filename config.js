@@ -10,6 +10,6 @@ module.exports = {
     email: 'ensinocatequese@gmail.com',
     instagram: 'https://instagram.com/mateusmotalima'
   },
-  pathPrefix: '/catequese',
-  siteUrl: 'https://catequese.github.io/catequese/',
+  pathPrefix: '/app',
+  siteUrl: 'https://catequese.github.io/app/',
 };
