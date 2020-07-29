@@ -30,9 +30,9 @@ featuredImage: './featured.jpg'
 
 # Prática da semana
 
- - Meditar o que foi exposto nas Aula 01 e na Aula 02. 
+ - Meditar o que foi exposto na Aula 01 e na Aula 02. 
  - Identificar no capítulo 4 de São João o que foi exposto nas aulas.
- - Perseverar na prática da Litugia das Horas.
+ - Perseverar na prática da **Litugia das Horas**.
  - Assistir a palestra de Professor Rafael Falcón:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zp_inHSGx3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

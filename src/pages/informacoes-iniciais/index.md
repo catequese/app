@@ -3,7 +3,7 @@ title: Catequeses para adultos - Informações inicias
 date: "2020-07-18"
 ---
 
-Para início de nossas atividades o Professor Mateus Mota pediu que assistimos as *lives* abaixo, pois foram tratados de aspectos importantes do que será exposto na Aula I e seguintes.
+Para o início de nossas atividades o Professor Mateus Mota pediu que assistíssemos as *lives* abaixo, pois foram tratados aspectos importantes que serão expostos na Aula I e seguintes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2KNZfoDsfrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
