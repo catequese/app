@@ -1,10 +1,10 @@
 ---
 title: Aula 03 - Senhor, vejo que és profeta!
-date: "2020-08-23"
+date: "2020-08-03"
 featuredImage: './featured.jpg'
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vxwO01MHTJ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxwO01MHTJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Prática da semana
 
